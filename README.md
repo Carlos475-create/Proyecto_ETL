@@ -42,7 +42,7 @@ Ejecuta el script principal para iniciar el proceso ETL:
 python src.py
 ```
 
-## Autores
+## Autor
 
 - Carlos Javier Ramírez Kunja
 
